@@ -21,13 +21,3 @@ Creative and detail-oriented Technical Artist with 3+ years of experience in gam
 <img alt="Photoshop" align="left" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/>
 <img alt="VisualStudio" align="left" width="50px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/visual-studio.png"/>
 <br />
-
-#
-
-### Projects
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
-
-#
